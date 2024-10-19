@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer
+I am well-versed in HTML, CSS JavaScript, and other cutting-edge libraries and frameworks like React.js and Next.js, which allows me to implement interactive features. Additionally, have experience in Next.js and backend technologies like Node.js, Express.js, and MongoDB.
 
 
 ## 🌐 Socials:
