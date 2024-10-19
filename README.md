@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-amirkalai&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-amirkalai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoj-amirkalai" alt="manoj-amirkalai" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://manoj-amirkalai-portfolio.onrender.com/](https://manoj-amirkalai-portfolio.onrender.com/)
