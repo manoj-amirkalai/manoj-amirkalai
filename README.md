@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am well-versed in HTML, CSS JavaScript, and other cutting-edge libraries and frameworks like React.js and Next.js, which allows me to implement interactive features. Additionally, have experience in Next.js and backend technologies like Node.js, Express.js, and MongoDB.
+I am a dedicated Software Engineer with a passion for transforming ideas into dynamic, interactive, and visually captivating digital experiences. Specializing in crafting user-centric websites and responsive web applications, I bring a strong technical expertise in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. With a keen eye for detail and a problem-solving mindset, I excel at delivering seamless, scalable solutions. Continuously driven to stay ahead of industry trends and emerging technologies, I am committed to creating innovative, high-quality products that enhance user experience and business success.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/<{manoj_amirkalai}/>) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-amirthalingam-6a5394220) 
